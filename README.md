@@ -1,7 +1,7 @@
 ### Opa! Me chamo Marcos Carvalho, muito prazer.
 
 - 👀 Aprendendo a ser único!
-- 🌱 Estudando JS, HTML, CSS, Typescript e Java.
+- 🌱 Estudando Javascript, HTML, CSS, React, Nodejs, python.
 - 📫 Você me encontra através do email ou minhas redes aqui abaixo!
   
 
