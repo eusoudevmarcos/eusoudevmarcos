@@ -2,7 +2,9 @@
 
 - 👀 Aprendendo a ser único!
 - 🌱 Estudando Javascript, HTML, CSS, React, Nodejs, python.
+- 🇬🇧 Ingês intermediário (ainda aperfeiçoando)...
 - 📫 Você me encontra através do email ou minhas redes aqui abaixo!
+ 
   
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
