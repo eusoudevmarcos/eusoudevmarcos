@@ -6,10 +6,12 @@
 - Busco um local de aprendizando, disponibilizando minha mão de obra gratuitamente como júnior por um trabalho onde possa evoluir e ajudar a organização a crescer!;
 - Formado em TI na faculdade Michelangelo em Brasilia DF em 2009;
 - Cursando FullStack na faculdade Estácio;
-- Ainda sem experiência na área de desenvolvimento pois segui outra profissão na época, mais palpável por necessidade;
-- Tenho interesse em chegar a fullstack mas inicialmente estou a me especialisar em dev front-end;
+- Ainda sem experiência prática ou comprovada na área de desenvolvimento, tive de seguir outra profissão na época formada por necessidades;
+- Tenho interesse em chegar a fullstack mas inicialmente estou a me especialisar em front-end;
 - Atualmente estou desenvolvendo alguns projetos e o projeto que estou querendo dedicar minha maior atenção é de uma rede social chamada <b>NEIGHBORSHIP</b>
-  onde me inspiro em muitas influências, desde msn ao instagram e inclusive estou aberto a parcerias para dar andamento a este projeto de sonho!
+  onde me inspiro em muitas influências, desde msn ao instagram e inclusive estou aberto a parcerias para dar andamento a este projeto de sonho!;
+- Também estou trabalhando em um novo projeto chamado Delicious (pode vir a ser alterado), um app de delivery de serviços variados, inclusive vinhos.;
+- Tenho atuado e estudado um novo projeto também de delivery mas, de profissionais corriqueiros, ainda é em formulação, mas já com uma base extensa e pronta.
 
 - As Linguagens, bibliotecas e ferramentas que estou adquirindo como parte das minhas habilidades estão nos ícones abaixo:
 
