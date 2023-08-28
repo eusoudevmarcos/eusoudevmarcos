@@ -5,6 +5,7 @@
 - Ingês intermediário (ainda aperfeiçoando)...
 - Busco um local de aprendizando, disponibilizando minha mão de obra gratuitamente como júnior por um trabalho onde possa evoluir e ajudar a organização a crescer!;
 - Formado em TI na faculdade Michelangelo em Brasilia DF em 2009;
+- Cursando FullStack na faculdade Estácio;
 - Ainda sem experiência na área de desenvolvimento pois segui outra profissão na época, mais palpável por necessidade;
 - Tenho interesse em chegar a fullstack mas inicialmente estou a me especialisar em dev front-end;
 - Atualmente estou desenvolvendo alguns projetos e o projeto que estou querendo dedicar minha maior atenção é de uma rede social chamada <b>NEIGHBORSHIP</b>
