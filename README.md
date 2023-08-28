@@ -1,7 +1,7 @@
    ### Opa! Me chamo Marcos Carvalho, muito prazer.
 
 - 👀 Aprendendo a ser único!
-- 🌱 Estudando Javascript, HTML, CSS, React, Nodejs, python.
+- 🌱 Estudando Javascript, HTML, CSS, JavaScript, ReactJS, Nodejs, Python, Git e GitHub, API's Rest e Restfull.
 - Ingês intermediário (ainda aperfeiçoando)...
 - Busco um local de aprendizando, disponibilizando minha mão de obra gratuitamente como júnior por um trabalho não remunerado;
 - Formado em TI na faculdade Michelangelo em Brasilia DF em 2009;
