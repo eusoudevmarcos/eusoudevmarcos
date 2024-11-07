@@ -1,17 +1,15 @@
    ### Opa! Me chamo Marcos Carvalho, muito prazer.
 
 - 👀 Aprendendo a ser único!
-- 🌱 FullStack em desenvolvimento com foco em front-end e estudando PHP com Laravel.
-- Especializando em Javascript, HTML, CSS, React.JS com Next.JS (Node.JS - Prisma - NeonDB - Git - TailwindCSS e TypeScript), Git e GitHub, API's Rest e Restfull, bancos como MongoDB e Firebase;
-- Ingês intermediário (entendendo mas conversação ainda aperfeiçoando)...
-- Busco um local de aprendizando, disponibilizando minha mão de obra gratuitamente como júnior por um trabalho onde possa evoluir e ajudar a organização a crescer!;
-- Formado em TI na faculdade Jk em Brasilia DF em 2009;
+- 🌱 FullStack em crescimento com foco em NodeJs, Reactjs/Native com JavaScript e suas Tecnologias como Nextjs/Typescript e bancos de dados Sql/NoSql.
+- Especializando em Javascript, HTML, CSS, React.JS com Next.JS (Node.JS - Prisma - NeonDB - Firebase - MongoDb - PostegreSql - TailwindCSS e TypeScript), Git e GitHub, API's Rest e Restfull;
+- Ingês intermediário ( consigo me comunicar com escrita e conversação em constante desenvolvimento)...
+- Busco um local de Crescimento e muito Aprendizando, disponibilizando minha mão de obra como júnior por um trabalho onde possa evoluir e ajudar a organização a crescer!;
+- Formado em Sistemas da Informação na faculdade Jk em Brasilia DF em 2009;
 - Atuei durante muito tempo como Analista de sistema e dando treinamento em sistemas com foco em sempre melhorar a plataforma;
 - Ainda sem experiência prática ou comprovada na área de desenvolvimento, tive de seguir outra profissão na época formada por necessidades;
-- Tenho interesse em chegar a fullstack mas inicialmente estou a me especialisar em front-end;
-- Atualmente estou desenvolvendo alguns projetos e o projeto que estou dedicando atenão atenção é de uma rede social chamada <b>Gosh</b>;
-- Também estou trabalhando em um novo projeto chamado Delicious (pode vir a ser alterado), um app de delivery de serviços variados um semi clone do iFood;
-
+- Atualmente estou desenvolvendo alguns projetos e o projeto que estou dedicando mais atenção é um sistema de Serviço de atendimento para Bares, Restaurantes e qualquer casa de atendimento e estudando novas tecnologias para finalizar uma social chamada <b>Gosh</b>;
+- Também estou trabalhando em um novo projeto chamado TakeIt Sis - um sistema de CRM com bando de dados de Médicos e trabalhadores em TI, para uma empresa de recrutamento e seleção;
 - As Linguagens, bibliotecas e ferramentas que estou adquirindo como parte das minhas habilidades estão nos ícones abaixo:
 
   <div style="display: inline_block"><br>
@@ -25,7 +23,7 @@
     <img align="center" alt="marcos-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
     <img align="center" alt="marcos-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
     <img align="center" alt="marcos-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img align="center" alt="marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img align="center" alt="marcos-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/postgresql.svg" />
 
   </div>
   
