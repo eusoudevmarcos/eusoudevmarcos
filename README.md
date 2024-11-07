@@ -23,7 +23,6 @@
     <img align="center" alt="marcos-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
     <img align="center" alt="marcos-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
     <img align="center" alt="marcos-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img align="center" alt="marcos-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/postgresql.svg" />
 
   </div>
   
